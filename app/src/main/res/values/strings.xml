@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Блокнот</string>
+    <string name="todo">TODO</string>
+    <string name="text_no_elements">Ваш блокнот пуст</string>
+    <string name="text_title">Заголовок</string>
+    <string name="text_content">Описание</string>
+</resources>
